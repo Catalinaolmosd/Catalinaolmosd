@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌍 MSc Energy Policy Studies (in progress) | BSc International Relations & Energy Policy<br>
+  🌍 MSc Energy Policy Studies (in progress) | BSc International Relations & European Politics<br>
   🔋 Renewables • Energy Markets • Decarbonization • Data Analysis & Visualization
 </p>
 
